@@ -4,8 +4,6 @@
 **- Always upto something and learning new skills**</br>
 **- Expanding my profile & experience**</br>
 
-</br>
-
 ## **Technologies**
 **Languages -** Java, Kotlin, Dart, C#
 
@@ -19,11 +17,6 @@
 
 **Other Skills -** RESTful API Integration & Development, Docker, Virtual Box, CI/CD Pipeline, Server Setup/Management, Git, Linux Environment, Database Management, Test Driven Development
 
-</br>
-
 ## **Reach out if you have an interesting idea/project**
 
-### **- [Website](https://ammdhillon.com "My Website")**
-### **- [LinkedIn](https://linkedin.com/in/ammdhillon.com "My LinkedIn")**
-### **- [StackOverflow](https://stackoverflow.com/users/5485373/amm-dhillon "My StackOverflow")**
-### **- [HackerRank](https://www.hackerrank.com/ammdhillon "My HackerRank")**
+### **[Website](https://ammdhillon.com "My Website")  -  [LinkedIn](https://linkedin.com/in/ammdhillon.com "My LinkedIn")  -  [StackOverflow](https://stackoverflow.com/users/5485373/amm-dhillon "My StackOverflow")  - [HackerRank](https://www.hackerrank.com/ammdhillon "My HackerRank")**
