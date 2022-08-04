@@ -24,8 +24,8 @@
 
 <!-- badge_plugin_start -->
 
----
+***
 
-<a href="https://github.com/ammdhillon" alt="https://github.com/ammdhillon"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=Amm Dhillon&color=ae1a1a"></a>
+<a href="https://github.com/ammdhillon" alt="https://github.com/ammdhillon"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=Made%20by&message=Amm Dhillon&color=ae1a1a"></a>
 
 <!-- badge_plugin_end -->
