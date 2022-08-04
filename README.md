@@ -1,9 +1,9 @@
 # **Profile of [Amm Dhillon](https://ammdhillon.com "My Blog") a.k.a Manpreet Singh Dhillon**
 
-### - Programming since 2014
-### - Programming since 2014
-### - Programming since 2014
-### - Programming since 2014
+**- Programming since 2014**
+**- Programming since 2014**
+**- Programming since 2014**
+**- Programming since 2014**
 
 ## **Technologies**
 **Languages -** Java, Kotlin, Dart, C#
