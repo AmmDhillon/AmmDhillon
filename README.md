@@ -6,17 +6,17 @@
 **- Newly found love for everything OpenSource ❤️**</br>
 
 ## **Technologies**
-**Languages -** Java, Kotlin, Dart, C#
+### **Languages -** Java, Kotlin, Dart, C#
 
-**Frameworks -** Native Android, Flutter, Spring Boot, Unity Engine
+### **Frameworks -** Native Android, Flutter, Spring Boot, Unity Engine
 
-**Libraries -** Android Jetpack Components, RxJava, WebFlux, ExoPlayer, Firebase, Dagger 2, Retrofit, Ktor, Junit, Espresso, Mockito, EventBus, AppSync, Coroutines, LiveData, Glide, Picasso, FFMPEG, Flow, SharedFlow, StateFlow
+### **Libraries -** Android Jetpack Components, RxJava, WebFlux, ExoPlayer, Firebase, Dagger 2, Retrofit, Ktor, Junit, Espresso, Mockito, EventBus, AppSync, Coroutines, LiveData, Glide, Picasso, FFMPEG, Flow, SharedFlow, StateFlow
 
-**Databases -** SQLite, RealmDB, MySQL, PostgreSQL
+### **Databases -** SQLite, RealmDB, MySQL, PostgreSQL
 
-**Hardware -** Raspberry Pie 4, Arduino Micro-controller board with Camera, Sonar, Temperature sensors, and HC-08 4.0 BLE module
+### **Hardware -** Raspberry Pie 4, Arduino Micro-controller board with Camera, Sonar, Temperature sensors, and HC-08 4.0 BLE module
 
-**Other Skills -** ReactiveProgramming, Functional Programming, RESTful API Integration & Development, Docker, Virtual Box, CI/CD Pipeline, Server Setup/Management, Git, Linux Environment, Database Management, Test Driven Development
+### **Other Skills -** ReactiveProgramming, Functional Programming, RESTful API Integration & Development, Docker, Virtual Box, CI/CD Pipeline, Server Setup/Management, Git, Linux Environment, Database Management, Test Driven Development
 
 ## **Reach out if you have an interesting idea/project**
 
