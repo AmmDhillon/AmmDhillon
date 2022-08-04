@@ -20,7 +20,7 @@
 
 ## **Reach out if you have an interesting idea/project**
 
-### **[Website](https://ammdhillon.com "My Website")  -  [LinkedIn](https://linkedin.com/in/ammdhillon.com "My LinkedIn")  -  [StackOverflow](https://stackoverflow.com/users/5485373/amm-dhillon "My StackOverflow")  - [HackerRank](https://www.hackerrank.com/ammdhillon "My HackerRank")**
+### **[Dev Log](https://ammdhillon.com "My Dev Log")  -  [LinkedIn](https://linkedin.com/in/ammdhillon.com "My LinkedIn")  -  [StackOverflow](https://stackoverflow.com/users/5485373/amm-dhillon "My StackOverflow")  - [HackerRank](https://www.hackerrank.com/ammdhillon "My HackerRank")**
 
 <!-- badge_plugin_start -->
 
