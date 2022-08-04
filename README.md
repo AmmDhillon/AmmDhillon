@@ -1,9 +1,8 @@
 # **Profile of [Amm Dhillon](https://ammdhillon.com "My Blog") a.k.a Manpreet Singh Dhillon**
 
-#### **- Programming since 2014**
-#### **- Always upto something and learning new skills**
-#### **- Programming since 2014**
-#### **- Programming since 2014**
+**- Programming since 2014**</br>
+**- Always upto something and learning new skills**</br>
+**- Expanding my profile & experience**</br>
 
 </br>
 
