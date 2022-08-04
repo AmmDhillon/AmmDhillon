@@ -3,6 +3,7 @@
 **- Programming since 2014**</br>
 **- Always upto something and learning new skills**</br>
 **- Expanding my profile & experience**</br>
+**- New found love for OpenSource**</br>
 
 ## **Technologies**
 **Languages -** Java, Kotlin, Dart, C#
@@ -20,3 +21,11 @@
 ## **Reach out if you have an interesting idea/project**
 
 ### **[Website](https://ammdhillon.com "My Website")  -  [LinkedIn](https://linkedin.com/in/ammdhillon.com "My LinkedIn")  -  [StackOverflow](https://stackoverflow.com/users/5485373/amm-dhillon "My StackOverflow")  - [HackerRank](https://www.hackerrank.com/ammdhillon "My HackerRank")**
+
+<!-- badge_plugin_start -->
+
+---
+
+<a href="https://github.com/ammdhillon" alt="https://github.com/ammdhillon"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=Amm Dhillon&color=ae1a1a"></a>
+
+<!-- badge_plugin_end -->
