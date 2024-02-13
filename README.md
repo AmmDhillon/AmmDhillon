@@ -6,13 +6,13 @@
 **- Newly found love for everything OpenSource ❤️**</br>
 
 ## **Technologies**
-**Languages -** Java, Kotlin, Dart, C#
+**Languages -** Java, Kotlin, JavaScript, Dart, C#
 
-**Frameworks -** Native Android, Flutter, Spring Boot, Unity Engine
+**Frameworks -** Spring Boot, VueJS, Native Android, Flutter, Unity Engine
 
 **Libraries -** Android Jetpack Components, RxJava, WebFlux, ExoPlayer, Firebase, Dagger 2, Retrofit, Ktor, Junit, Espresso, Mockito, EventBus, AppSync, Coroutines, LiveData, Glide, Picasso, FFMPEG, Flow, SharedFlow, StateFlow
 
-**Databases -** SQLite, RealmDB, MySQL, PostgreSQL
+**Databases -** SQLite, RealmDB, MySQL, PostgreSQL, MongoDB
 
 **Hardware -** Raspberry Pie 4, Arduino Micro-controller board with Camera, Sonar, Temperature sensors, and HC-08 4.0 BLE module
 
